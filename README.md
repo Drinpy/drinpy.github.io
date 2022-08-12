@@ -4,4 +4,4 @@
 
 `Pedro esteve por aqui`
 </br>
-<a href="drinpy.github.io/sitepessoal.html">Site!<a/>
+<a href="sitepessoal.html">Site!<a/>
