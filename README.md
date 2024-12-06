@@ -2,8 +2,6 @@
 ### Hunter Website
 ---
 
-`Pedro esteve por aqui`
-
 # Manual do Caçador
 
 ## Aspectos da Engenharia de Software Aplicados
