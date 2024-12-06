@@ -19,7 +19,7 @@
 | **Design Patterns** | Uso de padrões para organização e expansão. | Código modular com componentes como "arma" e "inimigo". |
 | **Manutenibilidade** | Facilitar alterações e adições futuras. | Código estruturado e classes reutilizáveis para estilos e layouts. |
 | **Reutilização de Código** | Criação de estruturas genéricas para reaproveitamento. | Grids flexíveis para armas e bestiário com estilos reaplicáveis. |
-| **Publicação e Deploy** | Hospedagem e disponibilização do projeto. | Deploy no GitHub Pages. |
+| **Publicação e Deploy** | Hospedagem e disponibilização do projeto. | Deploy no GitHub. |
 | **Controle de Qualidade** | Testes e ajustes para garantir funcionalidade. | Testes manuais em navegadores e ajustes de responsividade. |
 
 ---
