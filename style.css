@@ -16,7 +16,7 @@ header {
 header h1 {
   margin: 0;
   font-size: 2.5rem;
-  color: #aa0e0e;
+  color: #f31212;
 }
 
 nav {
@@ -24,7 +24,7 @@ nav {
 }
 
 nav a {
-    color: #f31212;
+    color: #b60f0f;
     margin: 0 10px;
     text-decoration: none;
 }
