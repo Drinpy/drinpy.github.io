@@ -36,7 +36,7 @@ O **Manual do Caçador** é uma página interativa inspirada no universo de Bloo
 
 ### Objetivo
 
-Este projeto visa ser um exemplo prático de boas práticas em engenharia de software, servindo como parte de um portfólio acadêmico e profissional.
+Este projeto visa ser um exemplo de boas práticas em engenharia de software, servindo como parte de um portfólio acadêmico e profissional.
 
 ---
 `Chega de tremer nas bases. Um caçador deve caçar.`
